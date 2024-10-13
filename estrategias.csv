@@ -1,8 +1,25 @@
-index;indicador;nomeEstrategia;mes;valor;ano
-1;indicador1;cadastro de professores;Jan;20;2024
-2;indicador1;cadastro de professores;fev;30;2024
-3;indicador1;cadastro de professores;mar;40;2024
-4;indicador1;cadastro de professores;abr;50;2024
-5;indicador2;cadastro;jan;10;2024
-6;indicador3;cadastro;fev;20;2024
-7;indicador4;cadastro;mar;20;2024
+index;indicador;nomeEstrategia;mes;valor;ano;status
+1;indicador1;Plano estrategico conjunto para diagnosticos e formacao;Jan;20;2024;em_andamento
+2;indicador1;Plano estrategico conjunto para diagnosticos e formacao;fev;25;2024;em_andamento
+3;indicador1;Plano estrategico conjunto para diagnosticos e formacao;mar;29;2024;em_andamento
+4;indicador1;Consolidar financiamento estudantil;jan;15;2024;em_andamento
+5;indicador1;Consolidar financiamento estudantil;fev;20;2024;em_andamento
+6;indicador1;Consolidar financiamento estudantil;mar;26;2024;em_andamento
+10;indicador2;Ampliar programa de iniciacao a docencia;Jan;20;2024;em_andamento
+11;indicador2;Ampliar programa de iniciacao a docencia;fev;25;2024;em_andamento
+12;indicador2;Ampliar programa de iniciacao a docencia;mar;29;2024;em_andamento
+13;indicador2;Expandir plataforma digital de matriculas;jan;15;2024;em_andamento
+14;indicador2;Expandir plataforma digital de matriculas;fev;20;2024;em_andamento
+15;indicador2;Expandir plataforma digital de matriculas;mar;26;2024;em_andamento
+16;indicador3;Programas de formacao para areas especiais;jan;12;2024;em_andamento
+17;indicador3;Programas de formacao para areas especiais;fev;15;2024;em_andamento
+18;indicador3;Programas de formacao para areas especiais;mar;122;2024;em_andamento
+16;indicador3;Reforma curricular dos cursos de licenciatura;jan;12;2024;em_andamento
+17;indicador3;Reforma curricular dos cursos de licenciatura;fev;15;2024;em_andamento
+18;indicador3;Reforma curricular dos cursos de licenciatura;mar;122;2024;em_andamento
+19;indicador4;valorizar as praticas de ensino e os estagios;jan;12;2024;em_andamento
+20;indicador4;valorizar as praticas de ensino e os estagios;fev;15;2024;em_andamento
+21;indicador4;valorizar as praticas de ensino e os estagios;mar;122;2024;em_andamento
+22;indicador4;Implementar cursos e programas especiais para formacao de docentes;jan;12;2024;em_andamento
+23;indicador4;Implementar cursos e programas especiais para formacao de docentes;fev;15;2024;em_andamento
+24;indicador4;Implementar cursos e programas especiais para formacao de docentes;mar;122;2024;em_andamento
